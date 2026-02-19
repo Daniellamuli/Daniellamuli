@@ -1,16 +1,16 @@
-## Hi there 👋
+# ✨ Hi, I'm Daniella! ✨
 
-<!--
-**Daniellamuli/Daniellamuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Statistician turned Data Scientist (in progress)  
+🌸 Kenyan girl who believes data can be cute *and* powerful  
+🤖 Merging stats + AI + ML to make Africa's future brighter (and sassier)  
 
-Here are some ideas to get you started:
+🌟 **What I'm up to currently:**   
+- 🧠 Leveling up in predictive analysis, machine learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech I cuddle with:**  
+Python • R • SQL • Tableau • Git • ODK • NVivo • and a whole lot of curiosity  
+
+💖 **On a mission:** to use data for good—especially for the people and places I call home.  
+
+✨ Let's connect and make data cute together!  
+    [LinkedIn](https://www.linkedin.com/in/daniella-muli/) 
