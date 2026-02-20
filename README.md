@@ -14,7 +14,7 @@ Python • R • SQL • Tableau • Git • ODK • NVivo • and a whole lot o
 
 ## 📈 GitHub Stats
 
-![Daniella's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daniellamuli&show_icons=true&theme=radical)
+![Daniellamuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniellamuli&show_icons=true&theme=transparent)
 
 ---
 
@@ -22,6 +22,3 @@ Python • R • SQL • Tableau • Git • ODK • NVivo • and a whole lot o
 
 ✨ Let's connect and make data cute together!  
     [LinkedIn](https://www.linkedin.com/in/daniella-muli/) 
-
-[![Daniella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniellamuli)](https://github.com/anuraghazra/github-readme-stats)
-![Daniella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniellamuli&show_icons=true&theme=radical&hide=contribs)
