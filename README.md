@@ -65,11 +65,13 @@
 
 💖 **On a mission:** to use data for good—especially for the people and places I call home.
 
-✨ Let's connect and make data cute together!  
+---
+
+😏 Let's connect—I'm cooler than my README. barely. 😎  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniella-muli/) · [Portfolio](https://yourportfolio.com) *(coming soon)*
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
   <br>
-  <sub> ✨ bringing data to the table and making it look good. obviously. purrr. 💅</sub>
+  <sub>✨ bringing data to the table and making it look good. obviously. purrr. 💅</sub>
 </p>
