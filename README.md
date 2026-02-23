@@ -10,21 +10,37 @@
 
 ## 🎀 My Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,tableau,git&perline=5" />
-  <br>
-  <sub>💕 plus **ODK**, **NVivo**, and a whole lot of curiosity</sub>
-</p>
+**🗄️ Statistical Software**  
+![R](https://img.shields.io/badge/-R-ff69b4?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=python&logoColor=white)
+![SPSS](https://img.shields.io/badge/-SPSS-ff69b4?style=flat-square)
+![Stata](https://img.shields.io/badge/-Stata-ff69b4?style=flat-square)
+![EViews](https://img.shields.io/badge/-EViews-ff69b4?style=flat-square)
+![Epi Info](https://img.shields.io/badge/-Epi%20Info-ff69b4?style=flat-square)
+
+**📊 Data Visualization**  
+![Tableau](https://img.shields.io/badge/-Tableau-ff69b4?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-ff69b4?style=flat-square)
+![Advanced Excel](https://img.shields.io/badge/-Advanced%20Excel-ff69b4?style=flat-square)
+
+**📱 Data Collection & Analysis**  
+![ODK](https://img.shields.io/badge/-ODK-ff69b4?style=flat-square)
+![Kobo Toolbox](https://img.shields.io/badge/-Kobo%20Toolbox-ff69b4?style=flat-square)
+![NVivo](https://img.shields.io/badge/-NVivo-ff69b4?style=flat-square)
+
+**🔧 Version Control**  
+![Git](https://img.shields.io/badge/-Git-ff69b4?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-ff69b4?style=flat-square&logo=github&logoColor=white)
+
+<sub>💕 *Conversant in all, curious about everything*</sub>
 
 ---
 
 ## 🌷 Currently Blooming In
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Predictive%20Analytics-ff8cba?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-ffb3c6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI-ffc2d1?style=flat-square" />
-</p>
+![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-ff8cba?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-ffb3c6?style=flat-square)
+![AI](https://img.shields.io/badge/-AI-ffc2d1?style=flat-square)
 
 ---
 
@@ -35,12 +51,8 @@
 </p>
 
 <p align="center">
-  <sub>🌸 *stats dressed in pink, just for you* 🌸</sub>
+  <sub>🌸 <i>stats dressed in pink, just for you</i> 🌸</sub>
 </p>
-
-<!--
-💡 Stats are powered by Streak Stats – custom colors to match the vibe!
--->
 
 ---
 
