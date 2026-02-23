@@ -17,6 +17,7 @@
 ![Stata](https://img.shields.io/badge/-Stata-ff69b4?style=flat-square)
 ![EViews](https://img.shields.io/badge/-EViews-ff69b4?style=flat-square)
 ![Epi Info](https://img.shields.io/badge/-Epi%20Info-ff69b4?style=flat-square)
+![CSPro](https://img.shields.io/badge/-CSPro-ff69b4?style=flat-square)
 
 **📊 Data Visualization**  
 ![Tableau](https://img.shields.io/badge/-Tableau-ff69b4?style=flat-square&logo=tableau&logoColor=white)
@@ -70,5 +71,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
   <br>
-  <sub>made with 💕 and too much caffeine</sub>
+  <sub> ✨ bringing data to the table and making it look good. obviously. purrr. 💅✨</sub>
 </p>
