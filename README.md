@@ -71,5 +71,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
   <br>
-  <sub> ✨ bringing data to the table and making it look good. obviously. purrr. 💅✨</sub>
+  <sub> ✨ bringing data to the table and making it look good. obviously. purrr. 💅</sub>
 </p>
