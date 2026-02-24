@@ -68,7 +68,11 @@
 ---
 
 😏 Let's connect—I'm cooler than my README. barely. 😎  
-🔗 [LinkedIn](https://www.linkedin.com/in/daniella-muli/) · [Portfolio](https://yourportfolio.com) *(coming soon)*
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniella-muli/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <sub><i>(coming soon)</i></sub>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
