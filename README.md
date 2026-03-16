@@ -2,7 +2,7 @@
 
 * 🌸 **Statistician** turned **Data Scientist** (in progress)
 * ☀️ **Kenyan girlie proving that data is at its best when it’s both elegant and formidable.**
-* 💫 Merging stats + AI + ML to build a brighter (and bolder) future for Africa. 💅>
+* 💫 Merging stats + AI + ML to build a brighter (and bolder) future for Africa. 💅
 
 ![](https://komarev.com/ghpvc/?username=Daniellamuli&color=ff69b4&style=for-the-badge&label=✨+Profile+Visits+✨)
 
